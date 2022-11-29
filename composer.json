@@ -24,6 +24,9 @@
         "forum": "https://github.com/umutcandev/flarum-style-extension"
     },
     "extra": {
+        "branch-alias": {
+	    "dev-master": "1.0.x-dev"
+	},
         "flarum-extension": {
             "title": "Flarum Style Extension",
             "category": "theme",
