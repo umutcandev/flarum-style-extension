@@ -28,7 +28,7 @@
             "title": "Flarum Style Extension",
             "category": "theme",
             "icon": {
-                "name": "fas fa-ghost",
+                "name": "fab fa-redhat",
                 "backgroundColor": "#fff",
                 "color": "#FF02C8"
             }
