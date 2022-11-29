@@ -1,0 +1,40 @@
+{
+    "name": "umutcandev/flarum-style-extension",
+    "description": "Flarum styling extension.",
+    "keywords": [
+        "extension",
+        "flarum",
+        "design"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^1.2"
+    },
+    "authors": [
+        {
+            "name": "Umutcan",
+            "email": "umuthcan@gmail.com",
+            "homepage": "https://github.com/umutcandev/"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/umutcandev/flarum-style-extension",
+        "source": "https://github.com/umutcandev/flarum-style-extension",
+        "forum": "https://github.com/umutcandev/flarum-style-extension"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Flarum Style Extension",
+            "category": "theme",
+            "icon": {
+                "name": "fas fa-ghost",
+                "backgroundColor": "#fff",
+                "color": "#FF02C8"
+            }
+        },
+        "flagrow": {
+            "discuss": "https://discuss.flarum.org/"
+        }
+    }
+}
