@@ -7,5 +7,5 @@ This plugin brings visual editing to the Tags area.
 ### Download
 Download via Composer:
 ```
-composer required umutcandev/flarum-style-extension
+composer require umutcandev/flarum-style-extension
 ```
