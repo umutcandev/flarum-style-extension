@@ -23,6 +23,15 @@
         "source": "https://github.com/umutcandev/flarum-style-extension",
         "forum": "https://github.com/umutcandev/flarum-style-extension"
     },
+    "require": {
+		"umutcandev/flarum-style-extension": "*"
+               },
+    "repositories": [
+	{
+		"type": "vcs",
+		"url": "git@github.com:umutcandev/flarum-style-extension.git"
+	}
+        ],
     "extra": {
         "branch-alias": {
 	    "dev-master": "1.0.x-dev"
